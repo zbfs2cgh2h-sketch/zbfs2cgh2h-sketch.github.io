@@ -1,9 +1,4 @@
- ```yaml                                                                                                                
-   # _config.yml                                                                                                        
-   title: "My AI‑First Blog"                                                                                            
-   theme: minima                                                                                                        
-   plugins:                                                                                                             
-     - jekyll-seo-tag                                                                                                   
-     - adoption/seo_plugin                                                                                              
-   # 기타 설정...                                                                                                       
- ```                  
+title: My Jekyll Blog
+description: A Jekyll blog
+baseurl: ""
+url: "https://example.com"
