@@ -1,0 +1,20 @@
+{
+  "current_task_index": 6,
+  "completed_tasks": ["Jekyll 기본 설정","레이아웃 파일","Tailwind CSS 도입","다크모드","카테고리 페이지"],
+  "last_tech_update": null,
+  "development_roadmap": [
+    {"task": "Jekyll 기본 설정", "phase": "foundation"},
+    {"task": "레이아웃 파일", "phase": "foundation"},
+    {"task": "Tailwind CSS 도입", "phase": "styling"},
+    {"task": "다크모드", "phase": "styling"},
+    {"task": "검색 기능", "phase": "features"},
+    {"task": "댓글 시스템", "phase": "features"}
+  ],
+  "tech_upgrade_candidates": [
+    "Jekyll 4.3 → 최신 버전",
+    "Tailwind CSS 최신 기능",
+    "Image optimization (Sharp)",
+    "PWA service worker",
+    "Lighthouse 100점 최적화"
+  ]
+}
